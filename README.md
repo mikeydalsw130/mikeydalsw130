@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @mikeydalsw130
 - 👀 Just joined Github this month to help out the community
 - 🌱 I’m currently learning pentesting as a hobby
-- 📫 How to reach me ...
+
+
+Email: mikey.dalsw130@protonmail.com) 
+Website: mikeydalsw130.github.io
 
 <!---
 mikeydalsw130/mikeydalsw130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
