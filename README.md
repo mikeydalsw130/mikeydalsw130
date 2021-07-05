@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikeydalsw130
 - 👀 Just joined Github this month to help out the community
-- 🌱 I’m currently learning pentesting as a student
+- 🌱 I’m currently learning pentesting as a hobby
 - 📫 How to reach me ...
 
 <!---
